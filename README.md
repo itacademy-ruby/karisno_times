@@ -1,4 +1,4 @@
-karisno_.times
+karisno_times
 ==============
 
 .times method realization
